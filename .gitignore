@@ -1,0 +1,8 @@
+.idea
+target
+*.iml
+derby.log
+metastore_db
+parquetOutput
+/data/
+logs/
